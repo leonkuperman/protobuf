@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/golang/protobuf.svg?branch=master)](https://travis-ci.org/golang/protobuf)
 [![GoDoc](https://godoc.org/github.com/golang/protobuf?status.svg)](https://godoc.org/github.com/golang/protobuf)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fprotobuf.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fprotobuf?ref=badge_shield)
 
 Google's data interchange format.
 Copyright 2010 The Go Authors.
@@ -242,3 +243,7 @@ breaking change and would be subject to the announcement policy stated above.
 The `protoc-gen-go/generator` package exposes a plugin interface,
 which is used by the gRPC code generation. This interface is not
 supported and is subject to incompatible changes without notice.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fprotobuf.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fprotobuf?ref=badge_large)
